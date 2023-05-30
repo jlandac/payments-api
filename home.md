@@ -1,7 +1,7 @@
 # Payments API - UAPIM
 
 Permits payments of orders if current User has access permissions to it. Hola
-Developed by Andres.
+Developed by Universal Company by DEV Team.
 
 **URL** : `/api/payments/:pk/`
 
